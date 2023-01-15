@@ -1,0 +1,32 @@
+# Unity generated
+Temp/
+obj/
+
+# Builds
+build/
+
+# Mobile device specific files
+*.apk
+*.aab
+*.obb
+
+# Unity files
+*.unityproj
+*.sln
+*.userprefs
+*.DS_Store
+*.DS_Store?
+._*
+*.pidb
+*.suo
+*.user
+*.unityuserprefs
+*.log
+*.orig
+
+# Visual Studio/MonoDevelop generated
+ExportedObj/
+*.svd
+*.user
+*.unityproj.user
+*.pidb.meta
